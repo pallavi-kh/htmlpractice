@@ -1,0 +1,112 @@
+nav{
+    border: 2px solid black;
+    height: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: black;
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+a{ 
+  color: rgb(60, 54, 54); 
+  text-decoration: none;
+}
+button{
+    padding: 10px;
+    border: 1px solid lightseagreen;
+    color:lightseagreen ;
+    background-color: black;
+    border-radius: 3px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+[type]{
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-right: 90px;
+    box-shadow: none;
+    padding-left: 15px;
+}
+.col{
+   color: white;
+}
+
+/* Second Nav Bar CSS */
+.A{
+    height: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color:blue
+  }
+  .B{
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  }
+a{ 
+  color: rgb(60, 54, 54); 
+  text-decoration: none;
+}
+button{
+    padding: 10px;
+    border: 1px solid lightseagreen;
+    color:lightseagreen ;
+    border-radius: 3px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+/* [type]{
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-right: 90px;
+    box-shadow: none;
+    padding-left: 15px;
+} */
+.col{
+   color: white;
+}
+.C{
+    background-color: blue;
+    color: rgb(121, 118, 110);
+}
+
+/* Third Nav Bar CSS */
+.D{
+    height: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: rgb(142, 174, 169)
+  }
+  .E{
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  }
+a{ 
+  color: rgb(60, 54, 54); 
+  text-decoration: none;
+}
+button{
+    padding: 10px;
+    border: 1px solid lightseagreen;
+    color:lightseagreen ;
+    border-radius: 3px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+/* [type]{
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-right: 90px;
+    border-radius: 3px;
+    padding-left: 15px;
+} */
+.col{
+   color: white;
+}
+.F{
+    background-color: rgb(142, 174, 169);
+    color:blue;
+    border-color: blue;
+}
